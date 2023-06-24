@@ -1,0 +1,30 @@
+PYHTON
+Es uno de los lenguajes de proposito general mas grande usado por multiples empresas, pudiendose usar para Webs, Ciencia de Datos, etc
+Pyhton posee ciertas caracteristicas que tenemos que saber:
+-Es un lenguaje de proposito general
+-Es un lenguaje de alto nivel = Mas facil de aprender
+-Posee la curva de aprendisaje mas facil de todas
+-Es un lenguaje de Tipado Dinamico
+-Es un lenguaje Orientado a Objetos
+
+
+¿¿POR QUE USAR PYHTON??
+-Los desarrolladores que utilizan Pyhton comprenden mas facil codigo de programas que utilizen Pyhton por la facil comprension que tiene
+-Los podemos mezclar con otros lenguajes como Java, C, C#, C++
+-Posee una de las comunidades abiertas mas grande de todo el mundo
+-Podemos usar el mismo programa para multiples plataformas (Windows, Linux, Mac)
+-Es un skill poderosisimos es un lenguaje aumenta salario (+$100.000 USD anuales en paises Primer Mundista)
+
+
+¿¿QUE PODEMOS HACER CON PYHTON??
+-Lenguaje para desarrollo web (Frameworks=(DJANGO))
+-Pyhton es muy util para IA y Analisis de Datos
+-Podemos desarrollar Software
+-Se puede utilizar para Ciberseguridad y Hacking
+
+TEMARIO:
+TEST #01 => TIPOS DE DATOS/DATOS COMPUESTOS
+TEST #02 => VARIABLES
+TEST #03 => OPERADORES ARIMETRICOS/COMPARACION/LOGICOS
+TEST #04 => CONDICIONALES/ELIF
+TEST #05 => METODOS DE CADENA/LISTAS
