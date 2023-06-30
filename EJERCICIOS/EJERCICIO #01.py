@@ -33,8 +33,8 @@ print("------------------")
 
 
 #c) Ver 10 horas de este curso a cuantas equivale de otros cursos, y al reves?
-diferencia_de_horas_curso_principal = (curso_promedio *100 // curso_actual / 10)
-diferencia_de_horas_curso_promedio = (curso_actual *100 // curso_promedio / 10)
+diferencia_de_horas_curso_principal = round((curso_promedio / curso_actual),1)
+diferencia_de_horas_curso_promedio = round((curso_actual / curso_promedio),1)
 
 
 print(f"Ver 10 horas de este curso equivale a ver: {diferencia_de_horas_curso_principal} horas de otros cursos")
