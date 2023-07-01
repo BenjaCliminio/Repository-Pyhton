@@ -3,3 +3,4 @@ def Greeting (name):
 
 def Greeting_Bad (name):
     return f"Hola {name}, Espero que te vaya mal"
+
